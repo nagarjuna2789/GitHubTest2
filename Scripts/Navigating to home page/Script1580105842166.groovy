@@ -17,5 +17,3 @@ WebUI.openBrowser('')
 
 WebUI.delay(5)
 
-WebUI.delay(10)
-
